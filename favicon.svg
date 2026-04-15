@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="8" fill="#0a1628"/>
+  <text x="32" y="25" font-family="Georgia, serif" font-size="10" font-weight="700" fill="#4a9eff" text-anchor="middle" letter-spacing="1.5">MAX</text>
+  <text x="32" y="37" font-family="Georgia, serif" font-size="6.5" font-weight="400" fill="#ffffff" text-anchor="middle" letter-spacing="2">MARKETING</text>
+  <line x1="10" y1="42" x2="54" y2="42" stroke="#4a9eff" stroke-width="0.5" opacity="0.5"/>
+  <text x="32" y="51" font-family="Georgia, serif" font-size="5.5" fill="#4a9eff" text-anchor="middle" letter-spacing="1.5" opacity="0.8">AGENCY</text>
+</svg>
